@@ -1,19 +1,19 @@
-# Hi, I'm Muhd Khairuddin
+# Hey, I'm Khai 👋
 
-I build small, useful web tools and I am looking for my next role as a developer.
+Also known as **KH4I**. I build random things for fun, mostly small tools that fix an annoying problem I actually have.
 
-## What I work with
+I'm not trying to be a full-time developer. I just like making stuff work.
 
-TypeScript, React and Next.js, Python and FastAPI, Supabase and PostgreSQL, Tailwind CSS.
+## What I play with
 
-## Projects
+TypeScript, React and Next.js, Python and FastAPI, Supabase, Tailwind CSS.
+
+## Things I've built
 
 | Project | What it is |
 | --- | --- |
-| [Receipt Manager](https://github.com/muhdkhairuddinn/receipt-manager-showcase) | Mobile-first expense tracker. Snap a receipt, read the total with OCR, export a monthly claim. |
+| [Receipt Manager](https://github.com/muhdkhairuddinn/receipt-manager-showcase) | Snap a receipt, read the total with OCR, export a monthly claim. Built because I hated paper receipts. |
 
-More coming. Source for most projects is private, so each one has a showcase page with screenshots and notes.
+More coming whenever I get around to it. Most of my code is private, so each project gets a showcase page with screenshots and notes.
 
-## Get in touch
-
-GitHub: [@muhdkhairuddinn](https://github.com/muhdkhairuddinn)
+Made by **KH4I**
