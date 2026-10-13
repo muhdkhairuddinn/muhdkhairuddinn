@@ -13,6 +13,7 @@ TypeScript, React and Next.js, Python and FastAPI, Supabase, Tailwind CSS.
 | Project | What it is |
 | --- | --- |
 | [Receipt Manager](https://github.com/muhdkhairuddinn/receipt-manager-showcase) | Snap a receipt, read the total with OCR, export a monthly claim. Built because I hated paper receipts. |
+| [SrcShot](https://github.com/muhdkhairuddinn/srcshot-showcase) | Tiny Windows tool: press a key, get a named and numbered screenshot filed in the right folder. |
 
 More coming whenever I get around to it. Most of my code is private, so each project gets a showcase page with screenshots and notes.
 
