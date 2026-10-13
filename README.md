@@ -14,6 +14,7 @@ TypeScript, React and Next.js, Python and FastAPI, Supabase, Tailwind CSS.
 | --- | --- |
 | [Receipt Manager](https://github.com/muhdkhairuddinn/receipt-manager-showcase) | Snap a receipt, read the total with OCR, export a monthly claim. Built because I hated paper receipts. |
 | [SrcShot](https://github.com/muhdkhairuddinn/srcshot-showcase) | Tiny Windows tool: press a key, get a named and numbered screenshot filed in the right folder. |
+| [IQBAES](https://github.com/muhdkhairuddinn/iqbaes-showcase) | My final year project: an online exam platform with a question bank, AI-made questions and anti-cheat monitoring. |
 
 More coming whenever I get around to it. Most of my code is private, so each project gets a showcase page with screenshots and notes.
 
